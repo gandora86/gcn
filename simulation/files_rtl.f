@@ -1,0 +1,13 @@
+../rtl/Counter.sv
+../rtl/Matrix_FM_WM_Memory.sv
+../rtl/Scratch_Pad.sv
+../rtl/Transformation_FSM.sv
+../rtl/Transformation.sv
+../rtl/Transfroamtion_Multiplication.sv
+../rtl/GCN.sv
+../rtl/GCN_TB.sv
+../rtl/Combination.sv
+../rtl/Combination_FSM.sv
+../rtl/Matrix_FM_WM_ADJ_Memory.sv
+../rtl/Argmax.sv
+../rtl/Register.sv
